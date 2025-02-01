@@ -20,5 +20,4 @@
 ---
 
 ### Additional Info
-I'm always looking to improve my knowledge in the field, if you see anything that intrigues you or want to collaborate, message me and let's talk!
-- [LinkedIn](https://www.linkedin.com/in/grantdavis110/)  
+I'm always looking to improve my knowledge in the field, if you see anything that intrigues you or want to collaborate, message me and let's talk! </br> [LinkedIn](https://www.linkedin.com/in/grantdavis110/)  
