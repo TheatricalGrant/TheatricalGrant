@@ -1,5 +1,5 @@
 # 👋Hey, I'm <a href="https://theatricalgrant.github.io/#/projects">Grant</a></h1> 
-## A game developer who's been interested for almost their whole life. I love <a href="www.rativerse.com">rats</a> as well.
+## A game developer who's been interested for almost their whole life. I love [rats](https://www.rativerse.com) as well.
 
 ### Skills
 - **Languages**: C++, C#, GDScript, UE Blueprints
