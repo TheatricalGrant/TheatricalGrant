@@ -17,4 +17,5 @@
 
 ### Additional Info
 I'm always looking to expand my knowledge and collaborate on interesting projects. Feel free to message me if anything intrigues you, want to collaborate or just want to talk!
-- [LinkedIn](https://www.linkedin.com/in/grantdavis110/)  
+- [LinkedIn](https://www.linkedin.com/in/grantdavis110/)
+- [Portfolio](theatricalgrant.github.io)
