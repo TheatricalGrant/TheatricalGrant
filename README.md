@@ -8,13 +8,6 @@
 
 ---
 
-## Current Projects
-### [Multiplayer Tab Target Tech Demo](https://github.com/TheatricalGrant/Multiplayer-Tab-Target-Demo)
-- **Description:** Meant for learning networking/multiplayer systems. Along with Tab Target MMORPG-esque combat systems inspired by games like FFXIV/WoW.
-- **Tech Used:** C++, Blueprints, Unreal Engine 5
-  
----
-
 ### Additional Info
 I'm always looking to expand my knowledge and collaborate on interesting projects. Feel free to message me if anything intrigues you, want to collaborate or just want to talk!
 - [LinkedIn](https://www.linkedin.com/in/grantdavis110/)
