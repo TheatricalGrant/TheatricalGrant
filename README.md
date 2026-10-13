@@ -1,12 +1,5 @@
-# 👋Hey, I'm <a href="https://theatricalgrant.github.io/#/projects">Grant</a></h1> 
-## A game developer who's been interested for almost their whole life. I love [rats](https://www.rativerse.com) as well.
-
-### Skills
-- **Languages**: C++, C#, GDScript, Blueprints
-- **Engines**: Unity, Godot, Unreal Engine 5
-- **Tools & Libraries**: SDL2, Visual Studio, Git
-
----
+# Hey, I'm <a href="https://theatricalgrant.github.io/#/projects">Grant</a></h1> 
+##. I love [rats](https://www.rativerse.com).
 
 ### Additional Info
 I'm always looking to expand my knowledge and collaborate on interesting projects. Feel free to message me if anything intrigues you, want to collaborate or just want to talk!
